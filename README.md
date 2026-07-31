@@ -1,4 +1,3 @@
-# Tkinter con POO
 
 Implementando arquitectura de separación por capas (un prototipo de la misma).
 
